@@ -10,6 +10,10 @@ A simple, user-friendly **Python Code Editor** built using **Python** and **Tkin
 - 🚨 **Error Handling**: Displays errors in case of incorrect syntax or runtime exceptions.
 - 🎨 **Simple User Interface**: Built with a minimalist design for a better coding experience.
 
+## 📸 Screenshots
+
+![Code Editor Screenshot](assets/screenshot.png)
+
 ## 📦 Installation
 
 ### 📝 Requirements:
